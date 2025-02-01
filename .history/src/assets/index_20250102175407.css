@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centra el contenido en el eje horizontal */
+    align-items: flex-start; /* Alinea el contenido desde la parte superior */
+    min-height: 100vh; /* Asegura que ocupe toda la pantalla */
+    background-color: #4A6572;
+   
+}
+
+#root {
+    display: flex;
+    flex-direction: column; /* Asegura que los elementos estén en columna */
+    align-items: center; /* Centra los elementos en el eje horizontal */
+    width: 100%;
+    padding: 20px;
+}

@@ -1,0 +1,16 @@
+.col-9 {
+    border: 4px solid #F0F0F0;
+    border-radius: 15px;
+    background-color:#A9B9C4;
+    color: #000000
+};
+.btn {
+    background-color: #28a745; /* Color verde */
+    color: white;
+    border: 2px solid #28a745;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+};

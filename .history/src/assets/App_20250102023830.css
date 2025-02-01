@@ -1,0 +1,9 @@
+.App {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centra el contenido en el eje horizontal */
+    align-items: center; /* Centra el contenido en el eje vertical */
+    height: 100vh; /* Asegura que ocupe toda la pantalla */
+    background-color: #f4f4f4;
+};

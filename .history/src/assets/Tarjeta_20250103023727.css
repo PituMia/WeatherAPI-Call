@@ -1,0 +1,13 @@
+.main {min-height: 20vh;}
+
+h1 {font-size: 3rem;
+font-weight: bold;}
+
+
+
+.cajita{
+    border: 5px outset blue; margin: 2px;
+    border-radius: 25px;
+}
+
+
