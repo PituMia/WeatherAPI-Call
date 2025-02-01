@@ -1,0 +1,30 @@
+.main {min-height: 20vh;}
+
+h1 {font-size: 3rem;
+font-weight: bold;
+color: #D3D3D3;}
+
+h2 {color: #D3D3D3}
+
+
+
+.cajita{
+    border: 5px outset #F0F0F0;
+    margin: 2px;
+    border-radius: 25px;
+    background-color:rgba(169, 185, 196, 0.3);
+    height: 150px;
+    text-align: center;
+    justify-content: space-between;
+    
+}
+
+h4 {
+    display:center
+}
+
+.img {max-height: 50%;
+margin-top: -16px;}
+
+
+

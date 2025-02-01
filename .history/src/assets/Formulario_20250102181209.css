@@ -1,0 +1,18 @@
+.col-9 { border-top-left-radius: 10px; /* Borde redondeado en la esquina izquierda superior */
+    border-bottom-left-radius: 10px; /* Borde redondeado en la esquina inferior izquierda */
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    outline: none;
+    width: 100%; /* Hace que el input ocupe el 100% de su espacio */
+    box-sizing: border-box; /* Incluye el padding dentro del ancho total */};
+.col-3 {border-top-right-radius: 10px; /* Borde redondeado en la esquina derecha superior */
+    border-bottom-right-radius: 10px; /* Borde redondeado en la esquina inferior derecha */
+    padding: 10px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: 1px solid #007bff;
+    cursor: pointer;
+    width: 100%; /* Hace que el botón ocupe el 100% del espacio restante */
+    box-sizing: border-box; /* Incluye el padding dentro del ancho total */};

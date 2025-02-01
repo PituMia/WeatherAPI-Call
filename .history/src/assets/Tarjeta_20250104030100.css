@@ -1,0 +1,32 @@
+.main {min-height: 20vh;}
+
+h1 {font-size: 3rem;
+font-weight: bold;
+color: #D3D3D3;}
+
+h2 {color: #D3D3D3}
+
+
+
+.cajita{
+    border: 5px outset #F0F0F0;
+    margin: 2px;
+    border-radius: 25px;
+    background-color:rgba(169, 185, 196, 0.3);
+    height: 150px;
+    text-align: center
+    
+}
+
+h4 {
+    display:center
+}
+.cajita h4 {
+    margin: 0;}
+
+.img {width: auto;      /* Mantiene el ancho automático para la imagen */
+    max-height: 70%;   /* Limita la altura máxima de la imagen al 70% de la altura del contenedor */
+    object-fit: contain;
+}
+
+
